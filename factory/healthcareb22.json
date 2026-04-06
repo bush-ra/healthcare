@@ -1,0 +1,9 @@
+{
+	"name": "healthcareb22",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "481cdb00-3b3c-4c52-946a-ebd03104df4a",
+		"tenantId": "97f4a5ad-1d43-4916-86ce-04302e5b26f2"
+	}
+}
